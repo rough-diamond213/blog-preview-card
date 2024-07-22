@@ -77,10 +77,12 @@ body{
     .card{
         width: 350px;
         padding: 25px;
+        display: flex;
         margin: auto;
     }
 
     .card>#text{
-        width: 320px;
+        width: 310px;
     }
+    
 }
