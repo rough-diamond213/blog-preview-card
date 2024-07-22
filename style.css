@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,500;1,500&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Figtree';
+}
+
+body{
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.card{
+    background-color:hsl(0, 0%, 100%);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    padding: 25px;
+    border-radius: 20px;
+    width: 450px;
+    border: 2px solid black;
+    box-shadow: 5px 10px black;
+}
+
+.card>img{
+    border-radius: 20px;
+}
+
+.card>h3{
+    background-color: hsl(47, 88%, 63%);
+    border-radius: 5px;
+    width: 90px;
+    margin: 5% 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0;
+    font-weight:bolder;
+}
+
+.card>h2{
+    padding: 3% 0;
+}
+
+.card>h2:hover{
+    color: hsl(47, 88%, 63%);
+}
+
+.card>h2:active{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
+.card>#text{
+    opacity: 70%;
+    width: 400px;
+}
+
+.lastimg{
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.lastimg>#name{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+@media (min-width:375px) and (max-width:1440px) {
+    .card{
+        width: 350px;
+        padding: 25px;
+        margin: auto;
+    }
+
+    .card>#text{
+        width: 320px;
+    }
+}
