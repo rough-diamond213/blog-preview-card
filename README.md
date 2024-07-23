@@ -25,5 +25,5 @@ And see hover and focus states for all interactive elements on the page.
 ### Screenshot
 ![blog-preview-card](https://github.com/user-attachments/assets/3a54b8a0-328b-4d92-8971-020fa4bba101)
 
-
+### Links
 
