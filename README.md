@@ -1,2 +1,2 @@
-# blog-preview-card
+BLOG PREVIEW CARD
  
