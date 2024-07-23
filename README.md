@@ -24,4 +24,4 @@ And see hover and focus states for all interactive elements on the page.
 
 ### Screenshot
 ![desktop-design](https://github.com/user-attachments/assets/d0d4d8d4-29b8-41f7-8756-d05594bbb1d3)
-![](./screenshot.jpg)
+
