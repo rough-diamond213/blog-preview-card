@@ -8,13 +8,10 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
+
 
 
 ### The challenge
@@ -26,4 +23,35 @@ And see hover and focus states for all interactive elements on the page.
 ![blog-preview-card](https://github.com/user-attachments/assets/3a54b8a0-328b-4d92-8971-020fa4bba101)
 
 ### Links
+- Solution URL: https://github.com/rough-diamond213/blog-preview-card
+- Live Site URL: https://rough-diamond213.github.io/blog-preview-card/
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flex
+- Mobile-first workflow
+
+### What I learned
+I got comfortable writing my code and also using the hover and fucus states for all interactive elements. 
+
+```css
+.card>h2:hover{
+    color: hsl(47, 88%, 63%);
+}
+
+.card>h2:active{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+```
+
+## Author
+- Frontend Mentor - [@rough-diamond213](https://www.frontendmentor.io/profile/rough-diamond213)
+- Twitter - [@callme_roughD](https://www.twitter.com/callme_roughD)
+
+
+
 
