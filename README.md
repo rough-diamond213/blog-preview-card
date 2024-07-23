@@ -35,9 +35,10 @@ And see hover and focus states for all interactive elements on the page.
 - Mobile-first workflow
 
 ### What I learned
-I got comfortable writing my code and also using the hover and fucus states for all interactive elements. 
+I got comfortable writing my code and also using the hover and fucus states for all interactive elements. And the use of box shadow
 
 ```css
+box-shadow: 5px 10px black;
 .card>h2:hover{
     color: hsl(47, 88%, 63%);
 }
