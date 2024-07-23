@@ -68,6 +68,12 @@ body{
     gap: 15px;
 }
 
+.lastimg>img{
+    margin-top: 2% 0;
+    width: 45px;
+    height: 45px;
+}
+
 .lastimg>#name{
     font-size: larger;
     font-weight: bolder;
