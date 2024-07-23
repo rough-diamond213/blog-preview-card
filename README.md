@@ -23,4 +23,7 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 And see hover and focus states for all interactive elements on the page.
 
 ### Screenshot
-![](./screenshot.jpg)
+![blog-preview-card](https://github.com/user-attachments/assets/3a54b8a0-328b-4d92-8971-020fa4bba101)
+
+
+
